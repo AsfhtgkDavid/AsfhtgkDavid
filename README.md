@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm 𝓓𝓪𝓿𝓲𝓭 <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm 𝓓𝓪𝓿𝓲𝓭 <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/hi.gif" height="32"/></h1>
 <h3 align="center">Software engineering student, Python and Java developer from Ukraine 🇺🇦</h3>
 
 # About me
