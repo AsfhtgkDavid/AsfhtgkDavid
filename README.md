@@ -11,7 +11,7 @@ I like Python and Java, also I know C++. Now, I am working on my django site. If
 	- Numpy <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/numpy.svg" height=32/>
 	- Aiogram <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/telegram.svg" height=32/>
 	- discord.py<img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/discord.svg" height=32/>
-- ### Java <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/java3.svg" height=32/>
+- ### Java <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/java.svg" height=32/>
 	- JavaFX
 	- JNI
 
