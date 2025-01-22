@@ -20,5 +20,5 @@ I like Python and Java, also I know C++. Now, I am working on my django site. If
 
 
 # My favorite languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsfhtgkDavid&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsfhtgkDavid&layout=compact&theme=dark#gh-dark-theme-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-theme-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsfhtgkDavid&layout=compact)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsfhtgkDavid&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats#gh-dark-theme-only)
