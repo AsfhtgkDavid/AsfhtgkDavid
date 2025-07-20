@@ -1,8 +1,13 @@
 <h1 align="center">Hi there, I'm 𝓓𝓪𝓿𝓲𝓭 <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/hi.gif" height="32"/></h1>
 <h3 align="center">Software engineering student, Python and Java developer from Ukraine 🇺🇦</h3>
-<div align="center"><a href="mailto:asfhtgk.david@gmail.com" align="center">
-  <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/emailme.svg" height="40" />
-</a> </div>
+<div align="center">
+  <a href="mailto:asfhtgk.david@gmail.com" align="center">
+    <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/emailme.svg" height="40" />
+  </a>
+  <a href="https://github.com/AsfhtgkDavid.gpg">
+    <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/gpg.svg" height="40" />
+  </a>
+</div>
 
 # About me
 I like Python and Java, also I know C++. Now, I am working on my django site. If you need make bot, site's backend or something else, you could write me.
