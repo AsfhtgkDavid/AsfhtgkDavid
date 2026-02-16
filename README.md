@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm 𝓓𝓪𝓿𝓲𝓭 <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/hi.gif" height="32"/></h1>
 <h3 align="center">Software engineering student, Python and Java developer from Ukraine 🇺🇦</h3>
 <div align="center">
-  <a href="mailto:asfhtgk.david@gmail.com" align="center">
+  <a href="mailto:david@daika.dev" align="center">
     <img src="https://github.com/AsfhtgkDavid/AsfhtgkDavid/raw/main/images/emailme.svg" height="40" />
   </a>
   <a href="https://github.com/AsfhtgkDavid.gpg">
