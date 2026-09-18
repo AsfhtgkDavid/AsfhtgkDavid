@@ -39,5 +39,5 @@ If you need a reliable backend, a custom bot, or a full-stack solution — feel 
 - **Tools:** Git, GPG, Inkscape
 
 ## 📊 My favorite languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsfhtgkDavid&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsfhtgkDavid&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AsfhtgkDavid&layout=compact#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=AsfhtgkDavid&layout=compact&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
